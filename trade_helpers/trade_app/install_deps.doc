@@ -1,0 +1,8 @@
+api cli: (https://github.com/Awethon/open-api-python-client)
+pip install -i https://test.pypi.org/simple/ --extra-index-url=https://pypi.org/simple/ tinkoff-invest-openapi-client
+
+pyqt:
+pip install PyQt5
+
+ubuntu:
+sudo apt-get install python3-pyqt5 pyqt5-dev-tools
